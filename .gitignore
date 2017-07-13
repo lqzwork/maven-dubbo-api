@@ -17,7 +17,4 @@
 /src/main/webapp/WEB-INF/classes/*
 /src/main/webapp/userfiles/*
 /target/
-target/*
-**/target/*
-*/target/*
-*/target/**
+target
